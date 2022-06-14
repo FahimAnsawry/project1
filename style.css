@@ -2,7 +2,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  background-color: #ffe4c4;
+ 
 }
 /* 
 body {
@@ -24,16 +24,14 @@ body {
 
 .nav-bar .logo {
   max-height: 30px;
-  margin-left: 30px;
+
 }
 
 .nav-bar .bar {
   display: flex;
-  
-  margin-left: 30px;
-  margin-right: 100px;
+
   align-items: center;
-  gap: 20px;
+
 }
 
 .list {
@@ -44,7 +42,7 @@ body {
 .list a {
   text-decoration: none;
   color: #2f4f4f;
-  font-weight: 300px;
+
 }
 #log {
   width: 30px;
